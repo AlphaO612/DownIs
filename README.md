@@ -1,9 +1,7 @@
 # DownIs
----
 This is python script for parsing info about service's status from site [Down Detector](downdetector.com).
 
 # How install
----
 Modules need for work: 
 | Name | pypi's command |
 | ------ | ------ |
