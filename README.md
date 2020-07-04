@@ -10,5 +10,3 @@ Modules need for work:
 
 You can change region domain at [5 line](downis.py#L5) in script
 
-# License
-MIT
