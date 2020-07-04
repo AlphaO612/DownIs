@@ -1,5 +1,5 @@
 # DownIs
-This is python script for parsing info about service's status from site [Down Detector](downdetector.com).
+This is python script for parsing info about service's status from site [Down Detector](https://downdetector.com).
 
 # How install
 Modules need for work: 
@@ -8,7 +8,7 @@ Modules need for work:
 | Requests | pip3 install requests |
 | BeautifulSoup | pip3 install beautifulsoup4  |
 
-You can change region domain at [5 line]() in script
+You can change region domain at [5 line](downis.py#L5) in script
 
 # License
 MIT
